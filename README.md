@@ -1,6 +1,6 @@
 # Greenhouse Automation System with IoT and Arduino Cloud Integration
 
-This is an IoT-based Greenhouse Automation System developed for the **CSE328 Internet of Things** course at **Akdeniz University**. It utilizes the **ESP32 Development Kit** to monitor and automate key environmental parameters (temperature, humidity, soil moisture, light intensity) to support optimal plant growth.
+This is an IoT-based Greenhouse Automation System developed. It utilizes the **ESP32 Development Kit** to monitor and automate key environmental parameters (temperature, humidity, soil moisture, light intensity) to support optimal plant growth.
 
 Real-time monitoring, control, and automation are achieved via **Arduino IoT Cloud**, local OLED display, and a push-button for switching display modes.
 
